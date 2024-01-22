@@ -5,6 +5,12 @@ body {
 .contacts-link {
   color: #434455;
   font-style: normal;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  word-wrap: break-word;
 }
 .page-tittle {
   color: white;
@@ -32,10 +38,13 @@ button {
   cursor: pointer;
 }
 .nav-menu {
-  font-family: "Roboto", "Montserrat", sans-serif;
   color: #2e2f42;
-  text-decoration: none;
-  align-items: center;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  word-wrap: break-word;
 }
 a {
   text-decoration: none;
