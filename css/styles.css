@@ -45,7 +45,11 @@ button {
   line-height: 24px;
   letter-spacing: 0.32px;
   word-wrap: break-word;
+  background-color: #e7e9fc;
 }
 a {
   text-decoration: none;
+}
+.our-team-background {
+  background-color: #f4f4fd;
 }
