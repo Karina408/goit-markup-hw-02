@@ -2,6 +2,17 @@ body {
   font-family: "Roboto", "Montserrat", sans-serif;
   color: #434455;
 }
-.mail {
+.contacts-link {
   color: #434455;
+  font-style: inherit;
+}
+.tittle {
+  color: white;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
+}
+.tittle-background {
+  background-color: #2e2f42;
 }
