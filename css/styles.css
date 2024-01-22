@@ -25,7 +25,10 @@ button {
   line-height: 24px;
   letter-spacing: 0.64px;
   background-color: #4d5ae5;
-  text-align: center;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
 .nav-menu {
   font-family: "Roboto", "Montserrat", sans-serif;
