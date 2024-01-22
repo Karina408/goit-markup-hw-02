@@ -5,14 +5,25 @@ body {
 .contacts-link {
   color: #434455;
   font-style: inherit;
+  text-decoration: none;
 }
-.tittle {
+.page-tittle {
   color: white;
   font-size: 56px;
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 1.12px;
+  text-align: center;
 }
 .tittle-background {
   background-color: #2e2f42;
+}
+button {
+  color: white;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+  background-color: #4d5ae5;
 }
