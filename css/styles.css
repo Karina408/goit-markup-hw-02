@@ -66,7 +66,6 @@ body {
   line-height: 24px;
   letter-spacing: 0.32px;
   word-wrap: break-word;
-  background-color: #e7e9fc;
 }
 .studio-link {
   text-decoration: none;
@@ -81,27 +80,16 @@ body {
 .portfolio-background {
   background-color: #f4f4fd;
 }
-.mail-title {
+.address-link {
   color: #434455;
   text-decoration: none;
 }
-.mail-title:hover {
+.address-link:hover {
   color: #404bbf;
 }
-.mail-title:focus {
+.address-link:focus {
   color: #404bbf;
 }
-.tel-title {
-  color: #434455;
-  text-decoration: none;
-}
-.tel-title:hover {
-  color: #404bbf;
-}
-.tel-title:focus {
-  color: #404bbf;
-}
-
 .tittle-strategy {
   font-weight: 500;
   font-size: 20px;
