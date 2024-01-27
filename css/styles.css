@@ -17,6 +17,9 @@ body {
   color: #2e2f42;
   text-decoration: none;
 }
+.studio-link:hover {
+  color: #404bbf;
+}
 .contacts-link {
   color: #434455;
   font-style: normal;
@@ -52,7 +55,7 @@ body {
 .button-text:hover {
   background-color: #404bbf;
 }
-.button-text: :focus {
+.button-text:focus {
   background-color: #404bbf;
 }
 .nav-menu {
